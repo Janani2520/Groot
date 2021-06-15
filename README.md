@@ -1,6 +1,6 @@
 # Deployed Link
 
-https://grootanjanani.web.app/
+https://grootanjananikathir.web.app/
 # Technologies Used
 React JS (front-end)
 NodeJS
