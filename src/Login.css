@@ -1,0 +1,54 @@
+
+.center {
+  text-align: center;
+  margin-top: 3%;
+}
+.button {
+  width: 100%;
+  margin-bottom: 25px;
+}
+#card {
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: auto;
+  margin-top: 5%;
+}
+#forgot {
+  float: right;
+  text-decoration: none;
+  margin-bottom: 3%;
+}
+#register {
+  text-decoration: none;
+  margin-bottom: 3%;
+}
+.row1 {
+  cursor: pointer;
+}
+
+#table-bg {
+  border: 5px solid;
+  border-color: #888;
+  margin-bottom: 2%;
+}
+#button {
+  float: right;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  font-weight: bold;
+}
+
+#close {
+  font-weight: bold;
+}
+
+.header {
+  margin: 3% auto 3% auto;
+}
+
+input[type="email"] {
+  margin-bottom: 3%;
+}
+#home-bg{
+    background-color: rgba(0, 0, 0, 0.19);
+}
